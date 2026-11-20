@@ -89,6 +89,4 @@ Sube **el contenido de esta carpeta** a la raíz del repositorio `municipioappmi
 - Los reportes adjuntos se limitan a JPEG, PNG, WEBP y PDF, 10 MB por archivo.
 - El SQL de encuestas/evidencias debe revisarse y aplicarse en el proyecto correcto antes del despliegue.
 
-## Alcance y estado
 
-Este paquete incorpora una implementación funcional de los módulos descritos en el alcance recuperado. No equivale a una certificación de seguridad ni a una puesta en producción: requiere ejecutar la migración, configurar variables en Netlify, validar RLS con cuentas de cada rol y probar el build en el entorno de entrega. No contiene datos personales ni contraseñas iniciales.
