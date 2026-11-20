@@ -56,21 +56,6 @@ El proyecto apunta a `https://weosqhohvstctwdnahac.supabase.co`.
 - Node: 20 o superior recomendado
 - Netlify detecta `netlify.toml`; el archivo incluye rewrite para React Router/SPA.
 
-Local:
-
-```bash
-npm install
-cp .env.example .env.local
-npm run dev
-```
-
-Verificación de producción:
-
-```bash
-npm run build
-npm run preview
-```
-
 ## GitHub
 
 Sube **el contenido de esta carpeta** a la raíz del repositorio `municipioappmi-oss/mi-municipio` en la rama `main`. No subas `.env.local`, tokens, contraseñas ni claves secretas.
